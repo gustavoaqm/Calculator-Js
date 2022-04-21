@@ -2,6 +2,8 @@
 Calculadora Javascript criada para o desafio do [AppIdeas](https://github.com/florinpop17/app-ideas).
 Veja uma [demo aqui](https://codepen.io/gustavoaqm/pen/gOoEqPV).
 
+![imagem](Screenshot.PNG)
+
 **Nível:** 1-Iniciante
 
 As calculadoras não são apenas uma das ferramentas mais úteis disponíveis, mas são
